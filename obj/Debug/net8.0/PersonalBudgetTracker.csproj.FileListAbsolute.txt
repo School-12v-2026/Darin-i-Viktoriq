@@ -1,0 +1,14 @@
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\bin\Debug\net8.0\PersonalBudgetTracker.exe
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\bin\Debug\net8.0\PersonalBudgetTracker.deps.json
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\bin\Debug\net8.0\PersonalBudgetTracker.runtimeconfig.json
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\bin\Debug\net8.0\PersonalBudgetTracker.dll
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\bin\Debug\net8.0\PersonalBudgetTracker.pdb
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.AssemblyInfoInputs.cache
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.AssemblyInfo.cs
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.dll
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\refint\PersonalBudgetTracker.dll
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.pdb
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\PersonalBudgetTracker.genruntimeconfig.cache
+C:\Users\Viktoriq Dimitrova\Downloads\PersonalBudgetTracker_SPLIT_WITH_COMMENTS\branch-feature-personA\obj\Debug\net8.0\ref\PersonalBudgetTracker.dll
